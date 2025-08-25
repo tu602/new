@@ -1,7 +1,7 @@
 Here are **40 high-quality OS MCQs with answers** (short, 1–2 line questions):
 
 ---
-'''
+```
 
 ### Operating System MCQs
 
@@ -288,6 +288,6 @@ Here are **40 high-quality OS MCQs with answers** (short, 1–2 line questions):
 
 ---
 
-'''
+```
 
 Want me to do the same **40 best MCQs for OOPS** next?
